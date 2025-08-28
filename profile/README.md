@@ -9,7 +9,7 @@
 
 <p align="center">
   <b>AI Co-Founder for Solopreneurs</b><br/>
-  Helping solo founders build, sell, and scale smarter — all in one platform.
+  Helping solo founders build, sell, and scale smarter. Your all in one platform.
 </p>
 
 ---
@@ -17,14 +17,14 @@
 <h2>🚀 About Fluum</h2>
 
 <p>
-Fluum is a smart, AI-powered platform built for <b>solopreneurs</b> — coaches, trainers, consultants, and creative professionals.  
+Fluum is a smart, AI-powered platform built for <b>solopreneurs</b> : coaches, trainers, consultants, and creative professionals.  
 We simplify the chaos of tools and systems into one seamless experience.
 </p>
 
 <ul>
-  <li>🧠 <b>AI Co-Founder</b> – From strategy to copywriting, SEO to workflows.</li>
-  <li>🤝 <b>Human-Centered</b> – Intuitive tools for real people, not just enterprises.</li>
-  <li>💡 <b>Smart Automations</b> – Have your automated sales funnels work for you.</li>
+  <li>🧠 <b>AI Co-Founder</b> : From strategy to copywriting, SEO to workflows.</li>
+  <li>🤝 <b>Human-Centered</b> : Intuitive tools for real people, not just enterprises.</li>
+  <li>💡 <b>Smart Automations</b> : Have your automated sales funnels work for you.</li>
 </ul>
 
 ---
